@@ -104,7 +104,7 @@ for(let i=0; i<numbers.length;i++)
         evens++;
     }
 }
-console.log("Even count:" + evens);
+console.log("Even count: " + evens);
 
 
 // STEP 9: Find the largest number.
